@@ -1,1 +1,2 @@
 amilys/embyserver
+moelin/1panel:lates
