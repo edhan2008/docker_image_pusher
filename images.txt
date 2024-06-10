@@ -1,3 +1,4 @@
 amilys/embyserver
 moelin/1panel
 ddsderek/xiaoya-emd
+chishin/nginx-proxy-manager-zh
