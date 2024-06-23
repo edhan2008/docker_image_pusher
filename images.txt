@@ -2,4 +2,4 @@ amilys/embyserver
 moelin/1panel
 ddsderek/xiaoya-emd
 chishin/nginx-proxy-manager-zh
-firezmc/dosgame-web-docker
+oldiy/dosgame-web-docker
